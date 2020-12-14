@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on enhancing my programming skills and knowledge
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate on diffrent data science & deep learning projects
+- 👯 I’m looking to collaborate on different data science & deep learning projects
 - 💬 Ask me about anything
 
 <br>
@@ -26,13 +26,13 @@ if __name__ == "__main__":
 <a href="https://linkedin.com/in/vatsalbajaj">
     <img align="left" alt="LinkedIn" width="30px" src="assests/linkedin.svg" />
 </a>
-<a herf="mailto:vatsalb61@gmail.com">
+<a href="mailto:vatsalb61@gmail.com">
     <img align="left" alt="Email" width="30px" src="assests/mail.png" />
 </a>
 <a href="https://www.instagram.com/bajaj_vatsal/">
     <img align="left" alt="Instagram" width="30px" src="assests/instagram.webp" />
 </a>
-<a href="https://www.instagram.com/bajajvatsal_/">
+<a href="https://www.twitter.com/bajajvatsal_/">
     <img align="left" alt="Twitter" width="30px" src="assests/twitter.png" />
 </a>
 
