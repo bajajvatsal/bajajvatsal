@@ -39,7 +39,7 @@ if __name__ == "__main__":
 <br>
 <br>
 
-## Tech Stack
+## Currently improving my knowledge in this multi-dimensional Tech Stack
 <img align="left" alt="Python" width="30px" src="assests/python.png" />
 <img align="left" alt="Tensorflow" width="30px" src="assests/tensorflow.png" />
 <img align="left" alt="VSCode" width="30px" src="assests/vscode.png" />
@@ -58,11 +58,11 @@ if __name__ == "__main__":
 <img align="left" alt="CSS" width="30px" src="assests/css.png" />
 <img align="left" alt="Github" width="30px" src="assests/github.png" />
 <img align="left" alt="Markdown" width="30px" src="assests/markdown.png" />
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
-<br>
-<div style="text-align: center"> 
+<div style="text-align: center">
 Credit to <a href="giphy.com">Giphy</a> and <a href="https://www.wikimedia.org/">Wikimedia</a>
 </div>
