@@ -57,6 +57,4 @@ if __name__ == "__main__":
 <br>
 <br>
 
-<div style="text-align: center">
-Credit to <a href="giphy.com">Giphy</a> and <a href="https://www.wikimedia.org/">Wikimedia</a>
-</div>
+<!-- space to add more -->
