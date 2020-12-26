@@ -29,12 +29,6 @@ if __name__ == "__main__":
 <a href="mailto:vatsalb61@gmail.com">
     <img align="left" alt="Email" width="30px" src="assests/mail.png" />
 </a>
-<a href="https://www.instagram.com/bajaj_vatsal/">
-    <img align="left" alt="Instagram" width="30px" src="assests/instagram.webp" />
-</a>
-<a href="https://www.twitter.com/bajajvatsal_/">
-    <img align="left" alt="Twitter" width="30px" src="assests/twitter.png" />
-</a>
 
 <br>
 <br>
