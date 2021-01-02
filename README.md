@@ -24,35 +24,35 @@ if __name__ == "__main__":
 
 ## Connect with me
 <a href="https://linkedin.com/in/vatsalbajaj">
-    <img align="left" alt="LinkedIn" width="35px" src="assests/linkedin.svg" />
+    <img align="left" alt="LinkedIn" width="35px" src="assets/linkedin.svg" />
 </a>
 <a href="mailto:vatsalb61@gmail.com">
-    <img align="left" alt="Email" width="35px" src="assests/gmail.png" />
+    <img align="left" alt="Email" width="35px" src="assets/gmail.png" />
 </a>
 
 <br>
 <br>
 
 ## Currently improving my knowledge and skills in this Tech Stack
-<img align="left" alt="Python" width="35px" src="assests/python.png" />
-<img align="left" alt="Tensorflow" width="35px" src="assests/tensorflow.png" />
-<img align="left" alt="Jupyter" width="35px" src="assests/jupyter.png" />
-<img align="left" alt="Pandas Library" width="35px" src="assests/pandas.png" />
-<img align="left" alt="Sci-kit Learn" width="50px" src="assests/sklearn.png" />
+<img align="left" alt="Python" width="35px" src="assets/python.png" />
+<img align="left" alt="Tensorflow" width="35px" src="assets/tensorflow.png" />
+<img align="left" alt="Jupyter" width="35px" src="assets/jupyter.png" />
+<img align="left" alt="Pandas Library" width="35px" src="assets/pandas.png" />
+<img align="left" alt="Sci-kit Learn" width="50px" src="assets/sklearn.png" />
 <br>
 <br>
 <br>
-<img align="left" alt="VSCode" width="35px" src="assests/vscode.png" />
-<img align="left" alt="Windows Terminal" width="35px" src="assests/winterm.png" />
-<img align="left" alt="Git" width="35px" src="assests/Git.png" />
-<img align="left" alt="Excel" width="35px" src="assests/excel.png" />
+<img align="left" alt="VSCode" width="35px" src="assets/vscode.png" />
+<img align="left" alt="Windows Terminal" width="35px" src="assets/winterm.png" />
+<img align="left" alt="Git" width="35px" src="assets/Git.png" />
+<img align="left" alt="Excel" width="35px" src="assets/excel.png" />
 <br>
 <br>
 <br>
-<img align="left" alt="Java" width="35px" src="assests/java.png" />
-<img align="left" alt="HTML" width="35px" src="assests/html.png" />
-<img align="left" alt="CSS" width="35px" src="assests/css.png" />
-<img align="left" alt="JavaScript" width="35px" src="assests/javascript.png" />
+<img align="left" alt="Java" width="35px" src="assets/java.png" />
+<img align="left" alt="HTML" width="35px" src="assets/html.png" />
+<img align="left" alt="CSS" width="35px" src="assets/css.png" />
+<img align="left" alt="JavaScript" width="35px" src="assets/javascript.png" />
 <br>
 <br>
 <br>
