@@ -2,9 +2,8 @@
 
 ## I'm a Data Science and Machine Learning Enthusiast
 
-* 🔭 I’m currently working on enhancing my programming skills and knowledge
-* 🌱 I’m currently learning everything
-* 👯 I’m looking to collaborate on different data science & deep learning projects
+* 🔭 I’m currently working on enhancing my programming skills and knowledge 
+* 👯 I’m looking to collaborate on different data science & machine learning projects
 * 💬 Ask me about anything
 
 <details>
